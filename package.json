@@ -1,8 +1,20 @@
 {
     "name": "mj-dark",
     "displayName": "MJ Dark",
-    "description": "MJ theme!",
+    "description": "This is the VS Code theme that you've been searching for years! You're welcome.",
     "version": "0.0.1",
+    "publisher": "MJ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Mariojr16/MJ-Dark-Theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "MJ",
+        "themj",
+        "mj dark"
+    ],
     "engines": {
         "vscode": "^1.57.0"
     },
